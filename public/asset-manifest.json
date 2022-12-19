@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/static/js/main.05af6f60.js",
+    "static/js/290.02bc9aa7.chunk.js": "/static/js/290.02bc9aa7.chunk.js",
+    "static/js/830.308b0601.chunk.js": "/static/js/830.308b0601.chunk.js",
+    "static/css/378.ff071d55.chunk.css": "/static/css/378.ff071d55.chunk.css",
+    "static/js/378.772a2cf5.chunk.js": "/static/js/378.772a2cf5.chunk.js",
+    "static/css/964.7d2fd753.chunk.css": "/static/css/964.7d2fd753.chunk.css",
+    "static/js/964.46eb17cc.chunk.js": "/static/js/964.46eb17cc.chunk.js",
+    "static/js/787.9c22e04e.chunk.js": "/static/js/787.9c22e04e.chunk.js",
+    "static/js/546.405118eb.chunk.js": "/static/js/546.405118eb.chunk.js",
+    "static/js/677.3d8c0a6d.chunk.js": "/static/js/677.3d8c0a6d.chunk.js",
+    "static/media/la-brands-400.svg": "/static/media/la-brands-400.928495fae14841a0d610.svg",
+    "static/media/la-solid-900.svg": "/static/media/la-solid-900.a813034654b4ff0a0bac.svg",
+    "static/media/la-solid-900.eot": "/static/media/la-solid-900.4184d740eae2fb727bfe.eot",
+    "static/media/la-solid-900.ttf": "/static/media/la-solid-900.279f38601f1d1655255f.ttf",
+    "static/media/la-brands-400.eot": "/static/media/la-brands-400.908ce19d18187969b32f.eot",
+    "static/media/la-brands-400.ttf": "/static/media/la-brands-400.6ecea4826b87fafb97be.ttf",
+    "static/media/la-solid-900.woff": "/static/media/la-solid-900.893634871a6cbff72157.woff",
+    "static/media/la-regular-400.svg": "/static/media/la-regular-400.86128b71644abd479cfb.svg",
+    "static/media/la-brands-400.woff": "/static/media/la-brands-400.925b340f49e65e8bab10.woff",
+    "static/media/la-solid-900.woff2": "/static/media/la-solid-900.3efd5ba15a279377d224.woff2",
+    "static/media/la-brands-400.woff2": "/static/media/la-brands-400.3a8109c4ac75662f8355.woff2",
+    "static/media/la-regular-400.eot": "/static/media/la-regular-400.77111476f05dd3443047.eot",
+    "static/media/la-regular-400.ttf": "/static/media/la-regular-400.cf246e21218cab398b3d.ttf",
+    "static/media/la-regular-400.woff": "/static/media/la-regular-400.aa859c0d08b8193d6586.woff",
+    "static/media/la-regular-400.woff2": "/static/media/la-regular-400.8dc1cedf1f4987f82b72.woff2",
+    "static/media/icomoon.svg?277m10": "/static/media/icomoon.ef55979ca1c5d8713675.svg",
+    "static/media/icomoon.eot?277m10": "/static/media/icomoon.6648a3468b3acda2f6e4.eot",
+    "static/media/icomoon.woff?277m10": "/static/media/icomoon.ab5cf827166f1e4ffe3b.woff",
+    "static/media/icomoon.ttf?277m10": "/static/media/icomoon.85120bc1a02051cd71a8.ttf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.05af6f60.js"
+  ]
+}

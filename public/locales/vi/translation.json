@@ -1,0 +1,18 @@
+{
+  "components": {
+    "message": {
+      "Success": "Thành công",
+      "Warning": "Thông báo",
+      "Fail": "Thất bại",
+      "Close": "Đóng",
+      "Ok": "Đồng ý"
+    }
+  },
+  "titles": {
+    "Home": "Tracking post service"
+  },
+  "layout": {
+    "header": {
+    }
+  }
+}

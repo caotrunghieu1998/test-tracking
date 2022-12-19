@@ -1,0 +1,18 @@
+{
+  "components": {
+    "message": {
+      "Success": "Success",
+      "Warning": "Warning",
+      "Fail": "Fail",
+      "Close": "Close",
+      "Ok": "Ok"
+    }
+  },
+  "titles": {
+    "Home": "HTracking post service"
+  },
+  "layout": {
+    "header": {
+    }
+  }
+}

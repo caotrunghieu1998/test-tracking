@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[290],{290:function(e,n,r){r.r(n);r(2791);var a=r(184);Promise.all([r.e(677),r.e(546)]).then(r.bind(r,546));n.default=function(e){var n=e.children;return(0,a.jsx)(a.Fragment,{children:n})}}}]);
